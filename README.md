@@ -19,6 +19,7 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/vscode-20232a.svg?style=for-the-badge&logo=vscode&logoColor=FFFFFF&color=29B6F6" />
   <img src="https://img.shields.io/badge/eclipse-20232a.svg?style=for-the-badge&logo=eclipseide&logoColor=FFFFFF&color=42337F" />
   <img src="https://img.shields.io/badge/intellij-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF&color=000000" />
   <img src="https://img.shields.io/badge/filezilla-20232a.svg?style=for-the-badge&logo=filezilla&logoColor=FFFFFF&color=BF0000" />
