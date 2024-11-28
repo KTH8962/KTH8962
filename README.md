@@ -1,4 +1,36 @@
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8002&height=260&text=TaeHwan　Kim&animation=&fontColor=ffffff&fontSize=50" />
+</div>
 
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=first;test)](https://git.io/typing-svg)-->
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTH8962)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTH8962)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KTH8962)](https://git.io/streak-stats)-->
+
+<!--
+<div>
+  <table style="float: left;">
+      <tr>
+          <th>이름</th>                    
+          <th>GitHub 프로필</th>
+      </tr>
+      <tr>
+          <th>김태환</th>
+          <td>https://github.com/KTH8962</td>
+      </tr>
+  </table>
+  <table style="float: left;">
+      <tr>
+          <th>이름</th>                    
+          <th>GitHub 프로필</th>
+      </tr>
+      <tr>
+          <th>김태환</th>
+          <td>https://github.com/KTH8962</td>
+      </tr>
+  </table>
+</div>-->
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF&color=F06529" />
@@ -30,3 +62,4 @@
   <img src="https://img.shields.io/badge/figma-20232a.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF&color=F24E1E" />
   <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=FFFFFF&color=AD5C51" />
 </div>
+
