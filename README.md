@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8002&height=260&text=TaeHwan　Kim&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8002&height=260&text=TaeHwan&nbsp;Kim&animation=&fontColor=ffffff&fontSize=50" />
 </div>
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=first;test)](https://git.io/typing-svg)-->
