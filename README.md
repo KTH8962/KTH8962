@@ -9,28 +9,87 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=KTH8962)](https://git.io/streak-stats)-->
 
 <!--
-<div>
-  <table style="float: left;">
+<div align="center">
+
+### 프론트 + 백엔드 프로젝트
+<table>
+    <tr>
+        <th>제목</th>                    
+        <th>개발 환경</th>
+        <th>개발 기간</th>
+        <th>사이트 링크</th>
+        <th>기타</th>
+    </tr>
+    <tr>
+        <td>DailySync</td>
+        <td>Vue.js(ver 3) + Spring(jpa)</td>
+        <td>2024. 11. 00 ~ 2024. 12. 00</td>
+        <td>https://github.com/KTH8962</td>
+        <td>국비지원 팀 프로젝트</td>
+    </tr>
+    <tr>
+        <td>Furnature</td>
+        <td>jsp(vueCdn) + Spring(my-batis)</td>
+        <td>2024. 11. 00 ~ 2024. 12. 00</td>
+        <td>https://github.com/KTH8962</td>
+        <td>국비지원 팀 프로젝트</td>
+    </tr>
+</table>
+
+### 프론트 프로젝트
+<table>
+    <tr>
+        <th>제목</th>                    
+        <th>개발 환경</th>
+        <th>개발 기간</th>
+        <th>사이트 링크</th>
+        <th>기타</th>
+    </tr>
+    <tr>
+        <td>DailySync</td>
+        <td>React + Express</td>
+        <td>2024. 11. 00 ~ 2024. 12. 00</td>
+        <td>https://github.com/KTH8962</td>
+        <td>국비지원 개인 미니프로젝트</td>
+    </tr>
+</table>
+
+### 퍼블리싱 프로젝트
+<table>
+    <tr>
+        <th>제목</th>                    
+        <th>개발 환경</th>
+        <th>개발 기간</th>
+        <th>사이트 링크</th>
+        <th>기타</th>
+    </tr>
+    <tr>
+        <td>DailySync</td>
+        <td>Vue.js(ver 3) + Spring(jpa)</td>
+        <td>2024. 11. 00 ~ 2024. 12. 00</td>
+        <td>https://github.com/KTH8962</td>
+        <td>국비지원 팀 프로젝트</td>
+    </tr>
+</table>
+    
+    <table style="float: left;">
       <tr>
-          <th>이름</th>                    
-          <th>GitHub 프로필</th>
+          <th>제목</th>                    
+          <th>개발 환경</th>
+          <th>개발 기간</th>
+          <th>사이트 링크</th>
+          <th>기타</th>
       </tr>
       <tr>
-          <th>김태환</th>
+          <td>DailySync</td>
+          <td>Vue.js(ver 3) + Spring(jpa)</td>
+          <td>2024. 11. 00 ~ 2024. 12. 00</td>
           <td>https://github.com/KTH8962</td>
+          <td>국비지원 팀 프로젝트</td>
       </tr>
-  </table>
-  <table style="float: left;">
-      <tr>
-          <th>이름</th>                    
-          <th>GitHub 프로필</th>
-      </tr>
-      <tr>
-          <th>김태환</th>
-          <td>https://github.com/KTH8962</td>
-      </tr>
-  </table>
-</div>-->
+    </table>
+</div>
+-->
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF&color=F06529" />
