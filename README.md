@@ -24,14 +24,14 @@
         <td>DailySync</td>
         <td>Vue.js(ver 3) + Spring(jpa)</td>
         <td>2024. 11. 00 ~ 2024. 12. 00</td>
-        <td>https://github.com/KTH8962</td>
+        <td>https://github.com/kangkangkangsm/DailySyncTeam</td>
         <td>국비지원 팀 프로젝트</td>
     </tr>
     <tr>
         <td>Furnature</td>
         <td>jsp(vueCdn) + Spring(my-batis)</td>
-        <td>2024. 11. 00 ~ 2024. 12. 00</td>
-        <td>https://github.com/KTH8962</td>
+        <td>2024. 09. 05 ~ 2024. 10. 07</td>
+        <td>https://github.com/KTH8962/furnature</td>
         <td>국비지원 팀 프로젝트</td>
     </tr>
 </table>
@@ -46,10 +46,10 @@
         <th>기타</th>
     </tr>
     <tr>
-        <td>DailySync</td>
+        <td>Dailygram</td>
         <td>React + Express</td>
         <td>2024. 11. 00 ~ 2024. 12. 00</td>
-        <td>https://github.com/KTH8962</td>
+        <td>https://github.com/KTH8962/sns-project</td>
         <td>국비지원 개인 미니프로젝트</td>
     </tr>
 </table>
@@ -64,11 +64,95 @@
         <th>기타</th>
     </tr>
     <tr>
-        <td>DailySync</td>
-        <td>Vue.js(ver 3) + Spring(jpa)</td>
-        <td>2024. 11. 00 ~ 2024. 12. 00</td>
-        <td>https://github.com/KTH8962</td>
-        <td>국비지원 팀 프로젝트</td>
+        <td></td>
+        <td></td>
+        <td>202. 1. 00 ~ 202. 1. 00</td>
+        <td>사내 사이트</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>202. 1. 00 ~ 202. 1. 00</td>
+        <td>사내 사이트</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>202. 1. 00 ~ 202. 1. 00</td>
+        <td>사내 사이트</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>202. 1. 00 ~ 202. 1. 00</td>
+        <td>사내 사이트</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>202. 1. 00 ~ 202. 1. 00</td>
+        <td>사내 사이트</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>202. 1. 00 ~ 202. 1. 00</td>
+        <td>사내 사이트</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>202. 1. 00 ~ 202. 1. 00</td>
+        <td>사내 사이트</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>202. 1. 00 ~ 202. 1. 00</td>
+        <td>사내 사이트</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>202. 1. 00 ~ 202. 1. 00</td>
+        <td>사내 사이트</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>202. 1. 00 ~ 202. 1. 00</td>
+        <td>사내 사이트</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>202. 1. 00 ~ 202. 1. 00</td>
+        <td>사내 사이트</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>202. 1. 00 ~ 202. 1. 00</td>
+        <td>사내 사이트</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>202. 1. 00 ~ 202. 1. 00</td>
+        <td>사내 사이트</td>
+        <td></td>
     </tr>
 </table>
     
@@ -81,11 +165,11 @@
           <th>기타</th>
       </tr>
       <tr>
-          <td>DailySync</td>
-          <td>Vue.js(ver 3) + Spring(jpa)</td>
-          <td>2024. 11. 00 ~ 2024. 12. 00</td>
-          <td>https://github.com/KTH8962</td>
-          <td>국비지원 팀 프로젝트</td>
+          <td></td>
+          <td></td>
+          <td>202. 0. 0 ~ 202. 0. 0</td>
+          <td>사내 사이트</td>
+          <td></td>
       </tr>
     </table>
 </div>
