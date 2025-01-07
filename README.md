@@ -57,7 +57,7 @@
     <tr>
         <td>DailySync</td>
         <td>Vue.js(ver 3) + Spring(jpa)</td>
-        <td>2024. 11. 00 ~ 2024. 12. 00</td>
+        <td>2024. 11 ~ 2024. 12</td>
         <td>https://github.com/kangkangkangsm/DailySyncTeam</td>
         <td>국비지원 팀 프로젝트</td>
     </tr>
