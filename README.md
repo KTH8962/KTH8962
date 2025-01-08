@@ -88,6 +88,13 @@
         <td>https://github.com/KTH8962/sns-project</td>
         <td>국비지원 개인 미니프로젝트</td>
     </tr>
+    <tr>
+        <td>React Vercel배포 연습</td>
+        <td>React(Vite) + Unsplash(API) + Vercel</td>
+        <td>2025. 01. 03 ~ 2025. 01. 05</td>
+        <td>https://react-album-nine.vercel.app/</td>
+        <td>Unsplash를 이용한 사진검색을 Vercel로 배포</td>
+    </tr>
 </table>
 
 <br><br><br><br>
