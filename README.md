@@ -78,7 +78,7 @@
         <th>제목</th>                    
         <th>개발 환경</th>
         <th>개발 기간</th>
-        <th>사이트 링크</th>
+        <th>사이트 링크(코드)</th>
         <th>기타</th>
     </tr>
     <tr>
@@ -92,7 +92,7 @@
         <td>React Vercel배포 연습</td>
         <td>React(Vite) + Unsplash(API) + Vercel</td>
         <td>2025. 01. 03 ~ 2025. 01. 05</td>
-        <td>https://react-album-nine.vercel.app/</td>
+        <td>https://react-album-nine.vercel.app<br/>(https://github.com/KTH8962/react-album)/</td>
         <td>Unsplash를 이용한 사진검색을 Vercel로 배포</td>
     </tr>
 </table>
