@@ -84,7 +84,7 @@
     <tr>
         <td>Dailygram</td>
         <td>React + Express</td>
-        <td>2024. 11. 00 ~ 2024. 12. 00</td>
+        <td>2024. 11. 22 ~ 2024. 12. 16</td>
         <td>https://github.com/KTH8962/sns-project</td>
         <td>국비지원 개인 미니프로젝트</td>
     </tr>
