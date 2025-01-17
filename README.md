@@ -2,11 +2,18 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8002&height=260&text=TaeHwan&nbsp;Kim&animation=&fontColor=ffffff&fontSize=50" />
 </div>
 
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=first;test)](https://git.io/typing-svg)-->
+<!--
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTH8962)](https://github.com/anuraghazra/github-readme-stats)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={KTH8962}&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={KTH8962}&theme=warm)
+  <img src="http://mazandi.herokuapp.com/api?handle={KTH8962}&theme=warm"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=first;test)](https://git.io/typing-svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTH8962)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTH8962)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=KTH8962)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=KTH8962)](https://git.io/streak-stats)
+-->
+
 
 <br><br><br>
 <div align="center">
